@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   title: 'Aksh Malik | CS Student & Developer',
   description: 'Computer Science student at UC San Diego passionate about the intersection of technology, art, and design. Building innovative solutions through responsible AI and accessible CS education.',
   generator: 'v0.app',
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
