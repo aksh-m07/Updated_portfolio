@@ -75,7 +75,7 @@ const projects = [
     image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80&fit=crop",
   },
   {
-    title: "Email Scarpper With Voice Assisantce",
+    title: "Email Scraper With Voice Assistance",
     description: "a Node.js/TypeScript app that connects to any IMAP inbox, fetches today's emails, saves senders and subjects to a CSV, and reads them aloud using your system's text-to-speech.",
     skills: ["TypeScript","IMAP" ,"Voice API"],
     link: "https://github.com/aksh-m07/Email_Scraper_Voice_Assistant",
